@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GumiProject8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="icon_comics">Comics</string>
+    <string name="icon_favorite">Favorite</string>
+    <string name="icon_character">Characters</string>
+    <string name="description">Description</string>
+</resources>

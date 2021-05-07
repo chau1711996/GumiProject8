@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_comic_book"
+        android:title="@string/icon_comics"/>
+    <item
+        android:icon="@drawable/ic_character"
+        android:title="@string/icon_character"/>
+    <item
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/icon_favorite"/>
+</menu>
